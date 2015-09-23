@@ -1,5 +1,5 @@
 define([
-  'lib/qwest'
+  './qwest'
 ],(
   qwest
 )=>{
