@@ -1,3 +1,7 @@
+/*! original: qwest 2.0.7 (https://github.com/pyrsmk/qwest) 
+    fork: https://github.com/HitoriSensei/re-qwest-es6
+*/
+
 define(['jquery-param'], function(PARAM) {
 	var win=window,
 			doc=document,
